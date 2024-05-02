@@ -36,7 +36,7 @@ Seja muito bem-vindo ao meu perfil! Fique à vontade para explorar e conferir me
 ### Contatos: 
 
 <div style="display: inline-block">
-    <a href="pardinhorh@gmail.com">
+    <a href="mailto:pardinhorh@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/felipe-pardinho-695170245/">
