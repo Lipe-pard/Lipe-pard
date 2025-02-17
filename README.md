@@ -1,6 +1,6 @@
 ### Ola!, me  chamo Felipe Pardinho
 
-- 🔭 Hoje trabalho como estagiario.
+- 🔭 Hoje trabalho como Desenvolvedor Laravel.
 - 🌱 Estou estudando TypeScript
 
 ##
